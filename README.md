@@ -30,6 +30,6 @@ Mis principales áreas de experiencia y habilidades incluyen:
 ## Contacto 📫
 Si quieres saber más sobre mis proyectos o discutir posibles colaboraciones, no dudes en contactarme.
 
-- **LinkedIn**: [Tu perfil de LinkedIn](www.linkedin.com/in/charlypierce)
+- **LinkedIn**: [Charly Pierce](https://www.linkedin.com/in/charlypierce)
 
 ¡Gracias por visitar mi perfil! ✨
