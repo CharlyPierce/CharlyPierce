@@ -7,7 +7,7 @@ Soy **Ingeniero Matemático** egresado de la [Escuela Superior de Física y Mate
 A lo largo de mi carrera, he desarrollado varios proyectos, entre los cuales destacan dos páginas web que puedes visitar:
 
 - [Proyecto 1](https://projecto2-373519.web.app/) - Portafolio.
-- [Proyecto 2](https://index-esfm-web.web.app/) - Un proyecto enfocado en recolectar archivos academicos acorde al plan de estudios de mi universidad.
+- [Proyecto 2](https://index-esfm-web.web.app/) - Un proyecto enfocado en la recopilación de archivos académicos acorde al plan de estudios de mi universidad.
 
 ## Certificaciones 🎓
 He obtenido diversas certificaciones que avalan mi conocimiento en las áreas de ciencia de datos, programación y desarrollo de software. Algunas de mis certificaciones incluyen:
